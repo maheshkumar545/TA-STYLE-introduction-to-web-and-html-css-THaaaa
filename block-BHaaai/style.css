@@ -1,0 +1,56 @@
+body{
+    background-color: #253267;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+address{
+    color: white;
+    text-align: center;
+}
+img{
+    width: 16%;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+h2{
+    color: #00c86e;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+h2{
+    color: #00c86e;
+}
+h5{
+    color: white;
+}
+.nav{
+    color: white;
+    font-size: 12px;
+}
+footer{
+    background-color: #151d4b;
+    padding: 20px;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+.foot{
+    color: #7a004c;
+    display: inline;
+    /* text-align: center; */
+    margin: 0 8px;
+}
